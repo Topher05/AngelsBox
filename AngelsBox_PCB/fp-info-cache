@@ -1,4 +1,4 @@
-22742224919889524
+22743979024852870
 Alps_Only
 ALPS-1.5U
 
@@ -189,6 +189,13 @@ ALPS-LEDONLY-FLIPPED
 2
 2
 AngelBox_Switch_Library
+KailhChoc-1U-Hotswap
+
+
+0
+2
+2
+AngelBox_Switch_Library
 Kailh_Choc-CircleDesign
 
 
@@ -200,8 +207,8 @@ Kailh_Choc_Hotswap-CircleDesign
 
 
 0
-4
-4
+2
+2
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
