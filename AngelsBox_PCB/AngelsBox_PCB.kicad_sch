@@ -1052,7 +1052,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 132.08 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 05485ff0-c412-49ed-bd24-a3e9f9f2167e)
-    (property "Reference" "MX6" (at 132.9752 74.93 0)
+    (property "Reference" "Choc6" (at 132.9752 74.93 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 132.9752 77.47 0)
@@ -1064,12 +1064,12 @@
     (property "Datasheet" "" (at 116.205 81.915 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid f53af301-06c5-4301-88d5-214c5499caa8))
-    (pin "2" (uuid e24a4879-479a-4e68-99ef-1cac969ff6f2))
+    (pin "1" (uuid be1a2f97-4999-4b7d-b532-54c6c552cc67))
+    (pin "2" (uuid 52c800e6-419f-4727-ba22-31105e62317d))
     (instances
       (project "AngelsBox_PCB"
         (path "/17a0a7e4-b1bf-448f-a062-fa3a221009b9"
-          (reference "MX6") (unit 1)
+          (reference "Choc6") (unit 1)
         )
       )
     )
@@ -1078,7 +1078,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 138.43 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 18b3bb59-ca62-4d35-8995-391914d12690)
-    (property "Reference" "MX16" (at 139.3252 140.97 0)
+    (property "Reference" "Choc16" (at 139.3252 140.97 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 139.3252 143.51 0)
@@ -1090,12 +1090,12 @@
     (property "Datasheet" "" (at 122.555 147.955 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid ba0c2917-0c5b-49af-a0eb-35f45c0f1f2a))
-    (pin "2" (uuid 9e3d72df-d384-409f-a1b2-c06ddea97408))
+    (pin "1" (uuid 4fda8d9e-6d2b-45f8-8e7e-cbcf5a8c94c2))
+    (pin "2" (uuid 584115ec-8833-4658-a2c2-f76e49385c00))
     (instances
       (project "AngelsBox_PCB"
         (path "/17a0a7e4-b1bf-448f-a062-fa3a221009b9"
-          (reference "MX16") (unit 1)
+          (reference "Choc16") (unit 1)
         )
       )
     )
@@ -1129,7 +1129,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 198.12 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 36c66186-b057-41e6-b777-018379e33d80)
-    (property "Reference" "MX15" (at 199.0152 107.95 0)
+    (property "Reference" "Choc15" (at 199.0152 107.95 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 199.0152 110.49 0)
@@ -1141,12 +1141,12 @@
     (property "Datasheet" "" (at 182.245 114.935 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid c364984a-b821-40ee-b1ed-c28e59328166))
-    (pin "2" (uuid 4b95ad3f-8c58-4f50-8ad3-c958551a4fb5))
+    (pin "1" (uuid 2196d0c6-6c40-45a3-a754-250584b10542))
+    (pin "2" (uuid 897a0515-ef66-409a-9664-d0f8816296fc))
     (instances
       (project "AngelsBox_PCB"
         (path "/17a0a7e4-b1bf-448f-a062-fa3a221009b9"
-          (reference "MX15") (unit 1)
+          (reference "Choc15") (unit 1)
         )
       )
     )
@@ -1155,7 +1155,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 148.59 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 42b657b4-2065-4000-89cd-59b937430c26)
-    (property "Reference" "MX12" (at 149.4852 107.95 0)
+    (property "Reference" "Choc12" (at 149.4852 107.95 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 149.4852 110.49 0)
@@ -1167,12 +1167,12 @@
     (property "Datasheet" "" (at 132.715 114.935 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 590ba7de-2afb-4a8d-aef0-ad76e1b95666))
-    (pin "2" (uuid 004ffe77-a21b-4473-95c8-1f3f7c749427))
+    (pin "1" (uuid 3b33f007-098a-401d-82e9-5f60f861c3a2))
+    (pin "2" (uuid 97225476-36a1-468b-8c24-310310c572cd))
     (instances
       (project "AngelsBox_PCB"
         (path "/17a0a7e4-b1bf-448f-a062-fa3a221009b9"
-          (reference "MX12") (unit 1)
+          (reference "Choc12") (unit 1)
         )
       )
     )
@@ -1206,7 +1206,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 181.61 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4d37252f-f411-45a6-83c3-e8ed85b26953)
-    (property "Reference" "MX14" (at 182.5052 107.95 0)
+    (property "Reference" "Choc14" (at 182.5052 107.95 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 182.5052 110.49 0)
@@ -1218,12 +1218,12 @@
     (property "Datasheet" "" (at 165.735 114.935 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid fdc0100c-0950-4a25-a8dd-7b1e7db0a042))
-    (pin "2" (uuid f514d37a-e099-4a02-a060-9470b21794ca))
+    (pin "1" (uuid 1f456584-4573-4f5f-99d5-30ebe7f16140))
+    (pin "2" (uuid a6135ad8-0a35-4c20-905b-9dcad5e7753d))
     (instances
       (project "AngelsBox_PCB"
         (path "/17a0a7e4-b1bf-448f-a062-fa3a221009b9"
-          (reference "MX14") (unit 1)
+          (reference "Choc14") (unit 1)
         )
       )
     )
@@ -1232,7 +1232,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 132.08 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 514e4eea-45e7-466c-bc51-0996f34332b6)
-    (property "Reference" "MX11" (at 132.9752 107.95 0)
+    (property "Reference" "Choc11" (at 132.9752 107.95 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 132.9752 110.49 0)
@@ -1244,12 +1244,12 @@
     (property "Datasheet" "" (at 116.205 114.935 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 71a21c15-4e41-40b0-95a6-eccde13ab168))
-    (pin "2" (uuid ec88e3e8-2660-40de-b654-be73ed6c9987))
+    (pin "1" (uuid c636625d-e545-43f5-b71e-85826a131d6a))
+    (pin "2" (uuid 0925c45d-43ce-4a65-b424-e4827a5e1631))
     (instances
       (project "AngelsBox_PCB"
         (path "/17a0a7e4-b1bf-448f-a062-fa3a221009b9"
-          (reference "MX11") (unit 1)
+          (reference "Choc11") (unit 1)
         )
       )
     )
@@ -1258,7 +1258,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 165.1 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 577d19ce-bba6-4da8-b561-514a98ae2a38)
-    (property "Reference" "MX3" (at 165.9952 46.99 0)
+    (property "Reference" "Choc3" (at 165.9952 46.99 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 165.9952 49.53 0)
@@ -1270,12 +1270,12 @@
     (property "Datasheet" "" (at 149.225 53.975 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 659c9dda-9e3f-4c25-b1c6-7bdecc2385d6))
-    (pin "2" (uuid 5d455cf2-b534-4611-8a01-674a62eeef1c))
+    (pin "1" (uuid 081587b4-48d1-418a-a1e6-190c9abfe324))
+    (pin "2" (uuid bfa7b9e1-cc76-4a39-a817-05e336eb3469))
     (instances
       (project "AngelsBox_PCB"
         (path "/17a0a7e4-b1bf-448f-a062-fa3a221009b9"
-          (reference "MX3") (unit 1)
+          (reference "Choc3") (unit 1)
         )
       )
     )
@@ -1284,7 +1284,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 148.59 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 66db6812-b251-481b-9f75-751fd0411d93)
-    (property "Reference" "MX2" (at 149.4852 46.99 0)
+    (property "Reference" "Choc2" (at 149.4852 46.99 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 149.4852 49.53 0)
@@ -1296,12 +1296,12 @@
     (property "Datasheet" "" (at 132.715 53.975 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 54e58451-65c4-4ae4-9985-c37845395645))
-    (pin "2" (uuid 93b70243-54a2-47c5-bb7c-99a32a08fddb))
+    (pin "1" (uuid 6c9da993-3a0d-4d19-b69b-884684310561))
+    (pin "2" (uuid 59ddf37a-9afe-434a-a3f5-c3f550370687))
     (instances
       (project "AngelsBox_PCB"
         (path "/17a0a7e4-b1bf-448f-a062-fa3a221009b9"
-          (reference "MX2") (unit 1)
+          (reference "Choc2") (unit 1)
         )
       )
     )
@@ -1310,7 +1310,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 165.1 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6a87d76e-4523-41fa-86ec-d29a3e071f1e)
-    (property "Reference" "MX13" (at 165.9952 107.95 0)
+    (property "Reference" "Choc13" (at 165.9952 107.95 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 165.9952 110.49 0)
@@ -1322,12 +1322,12 @@
     (property "Datasheet" "" (at 149.225 114.935 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 7973dbd4-8b4c-4700-bd8a-60073b565e2c))
-    (pin "2" (uuid 96edd8fd-d00b-4b34-bfb1-68092f4be79b))
+    (pin "1" (uuid b460f7e2-cbcd-4d04-9a20-93ce26b18b8d))
+    (pin "2" (uuid a753cb63-f95e-43e4-b3b8-61a2fb7cc850))
     (instances
       (project "AngelsBox_PCB"
         (path "/17a0a7e4-b1bf-448f-a062-fa3a221009b9"
-          (reference "MX13") (unit 1)
+          (reference "Choc13") (unit 1)
         )
       )
     )
@@ -1408,7 +1408,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 156.21 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9d133e48-5666-4deb-a86b-22cc8ff369de)
-    (property "Reference" "MX17" (at 157.1052 140.97 0)
+    (property "Reference" "Choc17" (at 157.1052 140.97 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 157.1052 143.51 0)
@@ -1420,21 +1420,21 @@
     (property "Datasheet" "" (at 140.335 147.955 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 9bb4256c-41f5-408f-bffe-5504f4273160))
-    (pin "2" (uuid d5340fae-8a1d-44f1-8d2f-39991531b81f))
+    (pin "1" (uuid d1a121a6-79eb-442e-905c-020942d064f1))
+    (pin "2" (uuid 29a65be4-2110-4021-99db-903220967fd8))
     (instances
       (project "AngelsBox_PCB"
         (path "/17a0a7e4-b1bf-448f-a062-fa3a221009b9"
-          (reference "MX17") (unit 1)
+          (reference "Choc17") (unit 1)
         )
       )
     )
   )
 
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 148.59 81.28 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a7b57ec2-f9db-4877-9a55-005dab09b462)
-    (property "Reference" "MX7" (at 149.4852 74.93 0)
+    (property "Reference" "Choc7" (at 149.4852 74.93 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 149.4852 77.47 0)
@@ -1446,12 +1446,12 @@
     (property "Datasheet" "" (at 132.715 81.915 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 7f6df4d5-7ad0-4ea5-bb55-a8a00f3f4a3e))
-    (pin "2" (uuid a70bb7c3-228c-4808-ab4d-1f77bf068e6e))
+    (pin "1" (uuid 296cf5ca-26ba-4272-bba7-395a162a3143))
+    (pin "2" (uuid 34216f4b-80b1-4e0b-b9de-03ff82792255))
     (instances
       (project "AngelsBox_PCB"
         (path "/17a0a7e4-b1bf-448f-a062-fa3a221009b9"
-          (reference "MX7") (unit 1)
+          (reference "Choc7") (unit 1)
         )
       )
     )
@@ -1460,7 +1460,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 181.61 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b849d106-d783-4f24-a595-fd80cae213a6)
-    (property "Reference" "MX9" (at 182.5052 74.93 0)
+    (property "Reference" "Choc9" (at 182.5052 74.93 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 182.5052 77.47 0)
@@ -1472,12 +1472,12 @@
     (property "Datasheet" "" (at 165.735 81.915 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 41413158-13e2-4d8a-98db-5402c9b4ef7c))
-    (pin "2" (uuid c0b17d87-40c4-46d1-87e5-83f5d5077c5a))
+    (pin "1" (uuid 12ff3de1-5a40-4c1f-84ae-f2b5aa561121))
+    (pin "2" (uuid 828913fd-427c-438a-bd89-3a9dde6ebd3c))
     (instances
       (project "AngelsBox_PCB"
         (path "/17a0a7e4-b1bf-448f-a062-fa3a221009b9"
-          (reference "MX9") (unit 1)
+          (reference "Choc9") (unit 1)
         )
       )
     )
@@ -1511,7 +1511,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 172.72 147.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c4220853-1915-4a75-a45b-ab6e12119769)
-    (property "Reference" "MX18" (at 173.6152 140.97 0)
+    (property "Reference" "Choc18" (at 173.6152 140.97 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 173.6152 143.51 0)
@@ -1523,12 +1523,12 @@
     (property "Datasheet" "" (at 156.845 147.955 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 90a29a25-9904-4d59-be59-17c43645faca))
-    (pin "2" (uuid f1a77d18-7043-48b5-aff6-396460e7a67e))
+    (pin "1" (uuid 2f5aef4e-c32f-4d24-9822-3656b19f63b0))
+    (pin "2" (uuid 8f4d8012-1548-49fc-8d01-d64d712310cb))
     (instances
       (project "AngelsBox_PCB"
         (path "/17a0a7e4-b1bf-448f-a062-fa3a221009b9"
-          (reference "MX18") (unit 1)
+          (reference "Choc18") (unit 1)
         )
       )
     )
@@ -1537,7 +1537,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 180.34 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c49186f6-328a-4efb-976c-7015978494ed)
-    (property "Reference" "MX4" (at 181.2352 46.99 0)
+    (property "Reference" "Choc4" (at 181.2352 46.99 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 181.2352 49.53 0)
@@ -1549,12 +1549,12 @@
     (property "Datasheet" "" (at 164.465 53.975 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 764b3839-94ee-41c9-ba15-bf3a4e18a1d7))
-    (pin "2" (uuid bb23f0d3-c24d-495b-bb42-1aefce566760))
+    (pin "1" (uuid b388fac6-9f4d-4b49-9500-d966098b1444))
+    (pin "2" (uuid e510bf9e-60ad-4d6f-9761-6aa3eb35d6a5))
     (instances
       (project "AngelsBox_PCB"
         (path "/17a0a7e4-b1bf-448f-a062-fa3a221009b9"
-          (reference "MX4") (unit 1)
+          (reference "Choc4") (unit 1)
         )
       )
     )
@@ -1563,7 +1563,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 198.12 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c7d015c4-67fc-40bd-abc8-e44a2fa6d31e)
-    (property "Reference" "MX10" (at 199.0152 74.93 0)
+    (property "Reference" "Choc10" (at 199.0152 74.93 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 199.0152 77.47 0)
@@ -1575,12 +1575,12 @@
     (property "Datasheet" "" (at 182.245 81.915 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 4175fd34-f26d-4c4d-a93b-5bc965c8d5e0))
-    (pin "2" (uuid ced7a717-e833-4df0-9dca-ea5b6d445e81))
+    (pin "1" (uuid 732ac7da-fe31-42ad-a7d0-036703448541))
+    (pin "2" (uuid 3b1fc0ad-e0c1-434d-ab09-412b3c89805c))
     (instances
       (project "AngelsBox_PCB"
         (path "/17a0a7e4-b1bf-448f-a062-fa3a221009b9"
-          (reference "MX10") (unit 1)
+          (reference "Choc10") (unit 1)
         )
       )
     )
@@ -1614,7 +1614,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 198.12 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ed4f6cb8-160a-4b37-87a4-88fc41a8fdaa)
-    (property "Reference" "MX5" (at 199.0152 46.99 0)
+    (property "Reference" "Choc5" (at 199.0152 46.99 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 199.0152 49.53 0)
@@ -1626,12 +1626,12 @@
     (property "Datasheet" "" (at 182.245 53.975 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 7ef4ade7-ca9d-40d9-b416-f032c1faa50f))
-    (pin "2" (uuid 33744f30-4efd-439e-8dc4-5034bf3c748b))
+    (pin "1" (uuid 5ea1dc17-aacc-4111-bd87-8027f691be9a))
+    (pin "2" (uuid 8934e156-9e63-4eeb-8d12-b1c17c5517e5))
     (instances
       (project "AngelsBox_PCB"
         (path "/17a0a7e4-b1bf-448f-a062-fa3a221009b9"
-          (reference "MX5") (unit 1)
+          (reference "Choc5") (unit 1)
         )
       )
     )
@@ -1665,7 +1665,7 @@
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 132.08 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f576b442-251c-4a9b-a763-662c84762dff)
-    (property "Reference" "MX1" (at 132.9752 46.99 0)
+    (property "Reference" "Choc1" (at 132.9752 46.99 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 132.9752 49.53 0)
@@ -1677,21 +1677,21 @@
     (property "Datasheet" "" (at 116.205 53.975 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid eaf82d43-a6de-415c-9b1b-1b9ef5fd28dc))
-    (pin "2" (uuid 46146fef-b5fa-49cd-8740-0c1609bf32ee))
+    (pin "1" (uuid 86284486-74ad-452b-9e2f-c7c9d42834f6))
+    (pin "2" (uuid 6fd3d6a5-b5b9-4a70-aa7f-535a5307c0ab))
     (instances
       (project "AngelsBox_PCB"
         (path "/17a0a7e4-b1bf-448f-a062-fa3a221009b9"
-          (reference "MX1") (unit 1)
+          (reference "Choc1") (unit 1)
         )
       )
     )
   )
 
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 165.1 81.28 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fa018eb0-891a-48ba-a151-adfa83c73608)
-    (property "Reference" "MX8" (at 165.9952 74.93 0)
+    (property "Reference" "Choc8" (at 165.9952 74.93 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "MX-NoLED" (at 165.9952 77.47 0)
@@ -1703,12 +1703,12 @@
     (property "Datasheet" "" (at 149.225 81.915 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid c5884a2a-78eb-4756-a824-29127e70694b))
-    (pin "2" (uuid d0b42d41-c38f-4614-9c50-2e9b2ba6064e))
+    (pin "1" (uuid a370d92d-6aab-4ab2-9e2d-2598d4293019))
+    (pin "2" (uuid c97f5ab1-862a-4b15-8c4a-efce5238fe92))
     (instances
       (project "AngelsBox_PCB"
         (path "/17a0a7e4-b1bf-448f-a062-fa3a221009b9"
-          (reference "MX8") (unit 1)
+          (reference "Choc8") (unit 1)
         )
       )
     )
