@@ -8,6 +8,7 @@ A custom-designed leverless controller for fighting games, inspired by the Flatb
 - **3D Models**: Created in Fusion 360 for the case and structural components.
 - **Keyboard Compatibility**: Leveraging community-driven footprints for key switches and other keyboard-related parts.
 - **Fighting Game Optimized**: Designed with ergonomics and precision in mind for competitive play.
+- **Firmware**: Uses [GP2040-CE](https://gp2040-ce.info/web-configurator/) for firmware configuration and setup.
 
 ## Contents
 
@@ -30,6 +31,7 @@ A custom-designed leverless controller for fighting games, inspired by the Flatb
 - **Fusion 360**: For modifying or inspecting the 3D models.
 - **3D Printer**: To print the case and other structural parts.
 - **PCB Manufacturer**: To fabricate the PCB using the provided Gerber files.
+- **Firmware Configurator**: Access [GP2040-CE Web Configurator](https://gp2040-ce.info/web-configurator/) for firmware setup.
 
 ## Setup and Assembly
 
@@ -45,7 +47,10 @@ A custom-designed leverless controller for fighting games, inspired by the Flatb
    - Assemble the 3D-printed case and secure the PCB inside.
    - Install key switches and other hardware components.
 
-4. **Testing**:
+4. **Firmware Configuration**:
+   - Use the [GP2040-CE Web Configurator](https://gp2040-ce.info/web-configurator/) to configure the firmware for your controller.
+
+5. **Testing**:
    - Connect the controller to a compatible device.
    - Verify inputs and functionality through fighting game or test software.
 
